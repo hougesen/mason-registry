@@ -14,7 +14,7 @@ categories:
   - Linter
 
 source:
-  id: pkg:golang/go.uber.org/nilaway@v0.0.0-20231117175943-a267567c6fff#cmd/nilaway
+  id: pkg:golang/go.uber.org/nilaway@v0.0.0-20240429194925-f3f320c587e3#cmd/nilaway
 
 bin:
   nilaway: golang:nilaway
